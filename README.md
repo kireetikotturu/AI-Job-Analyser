@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
-1. [The 30-second pitch (say this first)](#1-the-30-second-pitch-say-this-first)
+1. [The pitch )](#1-the-30-second-pitch-say-this-first)
 2. [What problem does this solve?](#2-what-problem-does-this-solve)
 3. [Glossary — words you'll hear yourself say tomorrow](#3-glossary--words-youll-hear-yourself-say-tomorrow)
 4. [The tech stack — what we built it with, and why](#4-the-tech-stack--what-we-built-it-with-and-why)
