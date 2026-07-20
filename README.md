@@ -245,3 +245,28 @@ In your Stripe Developer Dashboard, configure a webhook pointing to `https://<yo
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+| Library / Technology      | Purpose (Short)                                    |
+| ------------------------- | -------------------------------------------------- |
+| **React**                 | Builds the frontend UI.                            |
+| **Vite**                  | Fast React development and build tool.             |
+| **React Router**          | Navigation between pages without reloading.        |
+| **Axios**                 | Sends API requests from frontend to backend.       |
+| **Tailwind CSS**          | Styling the UI.                                    |
+| **Framer Motion**         | Animations and transitions.                        |
+| **Recharts**              | Dashboard charts and graphs.                       |
+| **Node.js**               | Runs JavaScript on the backend.                    |
+| **Express.js**            | Creates REST APIs and handles requests.            |
+| **MongoDB Atlas**         | Cloud database.                                    |
+| **Mongoose**              | Connects Node.js with MongoDB and manages schemas. |
+| **JWT (jsonwebtoken)**    | Creates login tokens for authentication.           |
+| **bcryptjs**              | Hashes passwords securely.                         |
+| **cookie-parser**         | Reads JWT cookies from requests.                   |
+| **Multer**                | Uploads files (PDF, Excel).                        |
+| **xlsx**                  | Reads Excel (.xlsx/.csv) files.                    |
+| **pdf-parse**             | Extracts text from PDF resumes.                    |
+| **mammoth**               | Extracts text from DOCX resumes.                   |
+| **@google/generative-ai** | Connects to Gemini AI for ATS analysis.            |
+| **Stripe**                | Handles online payments and subscriptions.         |
+
