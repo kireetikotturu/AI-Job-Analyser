@@ -247,7 +247,7 @@ In your Stripe Developer Dashboard, configure a webhook pointing to `https://<yo
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-| Library / Technology      | Purpose (Short)                                    |
+| Library / Technology      | Purpose                                            |
 | ------------------------- | -------------------------------------------------- |
 | **React**                 | Builds the frontend UI.                            |
 | **Vite**                  | Fast React development and build tool.             |
